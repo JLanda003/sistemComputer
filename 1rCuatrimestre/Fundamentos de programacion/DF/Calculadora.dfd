@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+134
+'Bienvenido a tu primera calculadora.
+Selecciona una operacion de la siguiente lista:
+1-Suma
+2-Resta
+3-Multiplicacion
+4-Division'
+5
+1
+13
+typeOperation
+7
+0
+1
+41
+typeOperation >= 1 and typeOperation <= 4
+4
+1
+44
+'Ingrese una operacion correcta, Por favor.'
+13
+4
+1
+27
+'Ingrese el primer numero:'
+5
+1
+11
+firstNumber
+4
+1
+28
+'Ingrese el segundo numero:'
+5
+1
+12
+secondNumber
+4
+1
+35
+'Calculando, espere un momento....'
+7
+0
+1
+17
+typeOperation = 1
+7
+0
+1
+17
+typeOperation = 2
+7
+0
+1
+17
+typeOperation = 3
+6
+1
+6
+result
+26
+firstNumber / secondNumber
+13
+6
+1
+6
+result
+26
+firstNumber * secondNumber
+13
+13
+6
+1
+6
+result
+26
+firstNumber - secondNumber
+13
+13
+6
+1
+6
+result
+26
+firstNumber + secondNumber
+13
+4
+1
+110
+'El resultado de la operacion entre el numero: ', firstNumber, ' y el numero: ', secondNumber, ' es: ', result
+13
+1
