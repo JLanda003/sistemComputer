@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Bienvenido a tu primer rango de edades'
+4
+1
+36
+'Por favor ingrese la primera edad.'
+5
+1
+8
+firstAge
+4
+1
+36
+'Por favor ingrese la segunda edad.'
+5
+1
+9
+secondAge
+7
+0
+1
+32
+firstAge >= 0 and secondAge >= 0
+4
+1
+37
+'Por favor, ingrese una edad valida.'
+13
+4
+1
+42
+'Calculando por favor, espere un momento.'
+4
+1
+78
+'El rango de edades entre: ', firstAge, ' y ', secondAge, ' es el siguiente: '
+8
+1
+4
+item
+1
+8
+firstAge
+1
+9
+secondAge
+1
+1
+1
+4
+1
+26
+'Edad: ', item, ' año(s).'
+10
+4
+1
+16
+'Fin del rango.'
+13
+1
