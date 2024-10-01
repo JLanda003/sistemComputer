@@ -24,7 +24,8 @@ Algoritmo calculadora
 				result <- firstNumerber * secondtNumerber
 			4:
 				result <- firstNumerber / secondtNumerber
-				
+			De Otro Modo:
+				Escribir "Ingrese un tipo de calculo correcto"
 		Fin Segun
 		Escribir "Obtuvimos un el resultado de la operacion de los valores: " firstNumerber " y " secondtNumerber " el cual es: " result
 		SiNo
