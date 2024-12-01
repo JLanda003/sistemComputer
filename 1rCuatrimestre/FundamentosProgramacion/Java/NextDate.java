@@ -75,12 +75,12 @@ public class NextDate {
 
     day++;
 
-    if(day > 29){
+    if(day > 30){
       day = 1;
       month++;
     }
 
-    if(month > 11){
+    if(month > 12){
       month = 1;
       year++;
     }
