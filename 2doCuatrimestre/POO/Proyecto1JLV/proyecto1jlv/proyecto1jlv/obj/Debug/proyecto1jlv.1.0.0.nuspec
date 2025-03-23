@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>proyecto1jlv</id>
+    <version>1.0.0</version>
+    <authors>proyecto1jlv</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a3988d2191d20274a783bb06cf4841c7505289b9" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.runtimeconfig.json" target="lib\net8.0-windows7.0\proyecto1jlv.runtimeconfig.json" />
+    <file src="D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.dll" target="lib\net8.0-windows7.0\proyecto1jlv.dll" />
+  </files>
+</package>

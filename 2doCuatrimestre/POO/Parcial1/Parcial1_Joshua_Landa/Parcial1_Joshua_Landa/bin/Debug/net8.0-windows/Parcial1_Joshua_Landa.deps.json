@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parcial1_Joshua_Landa/1.0.0": {
+        "runtime": {
+          "Parcial1_Joshua_Landa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial1_Joshua_Landa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

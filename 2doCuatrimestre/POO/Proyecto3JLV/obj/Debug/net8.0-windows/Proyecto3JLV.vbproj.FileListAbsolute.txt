@@ -1,0 +1,17 @@
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\bin\Debug\net8.0-windows\Proyecto3JLV.exe
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\bin\Debug\net8.0-windows\Proyecto3JLV.deps.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\bin\Debug\net8.0-windows\Proyecto3JLV.runtimeconfig.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\bin\Debug\net8.0-windows\Proyecto3JLV.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\bin\Debug\net8.0-windows\Proyecto3JLV.pdb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.Form1.resources
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.vbproj.GenerateResource.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.GeneratedMSBuildEditorConfig.editorconfig
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.AssemblyInfoInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.AssemblyInfo.vb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.vbproj.CoreCompileInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.sourcelink.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\refint\Proyecto3JLV.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.pdb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\Proyecto3JLV.genruntimeconfig.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto3JLV\obj\Debug\net8.0-windows\ref\Proyecto3JLV.dll

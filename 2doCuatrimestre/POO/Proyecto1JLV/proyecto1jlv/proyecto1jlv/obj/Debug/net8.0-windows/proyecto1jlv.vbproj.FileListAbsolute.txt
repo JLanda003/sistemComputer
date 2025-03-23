@@ -1,0 +1,17 @@
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.exe
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.deps.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.runtimeconfig.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\bin\Debug\net8.0-windows\proyecto1jlv.pdb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.Form1.resources
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.vbproj.GenerateResource.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.GeneratedMSBuildEditorConfig.editorconfig
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.AssemblyInfoInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.AssemblyInfo.vb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.vbproj.CoreCompileInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.sourcelink.json
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\refint\proyecto1jlv.dll
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.pdb
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\proyecto1jlv.genruntimeconfig.cache
+D:\sistemComputer\2doCuatrimestre\POO\Proyecto1JLV\proyecto1jlv\proyecto1jlv\obj\Debug\net8.0-windows\ref\proyecto1jlv.dll

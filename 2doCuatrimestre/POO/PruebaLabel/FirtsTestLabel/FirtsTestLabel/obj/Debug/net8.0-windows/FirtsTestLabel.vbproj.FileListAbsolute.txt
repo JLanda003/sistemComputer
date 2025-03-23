@@ -1,0 +1,17 @@
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\bin\Debug\net8.0-windows\FirtsTestLabel.exe
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\bin\Debug\net8.0-windows\FirtsTestLabel.deps.json
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\bin\Debug\net8.0-windows\FirtsTestLabel.runtimeconfig.json
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\bin\Debug\net8.0-windows\FirtsTestLabel.dll
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\bin\Debug\net8.0-windows\FirtsTestLabel.pdb
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.Form1.resources
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.vbproj.GenerateResource.cache
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.GeneratedMSBuildEditorConfig.editorconfig
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.AssemblyInfoInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.AssemblyInfo.vb
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.vbproj.CoreCompileInputs.cache
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.sourcelink.json
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.dll
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\refint\FirtsTestLabel.dll
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.pdb
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\FirtsTestLabel.genruntimeconfig.cache
+D:\sistemComputer\2doCuatrimestre\POO\PruebaLabel\FirtsTestLabel\FirtsTestLabel\obj\Debug\net8.0-windows\ref\FirtsTestLabel.dll
