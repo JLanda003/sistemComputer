@@ -1,0 +1,17 @@
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

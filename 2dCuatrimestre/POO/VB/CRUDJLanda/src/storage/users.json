@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "email": "admin@admin.com",
+            "password": "pass123",
+            "access": {
+                "storage": {
+                    "create": true,
+                    "update": true,
+                    "delete": true
+                }
+            }
+        }
+    ],
+    "lang": {
+        "es": {
+            "login": {
+                "lblLogin": "Iniciar Sesión",
+                "lblFirtsTime": "¿Es tu primera vez?",
+                "lblRegisterLink": "Regístrate",
+                "lblEmail": "Email*",
+                "txtEmailPlaceholder": "Email",
+                "lblPassword": "Contraseña*",
+                "txtPasswordPlaceholder": "Contraseña",
+                "lblForgotPasswordLink": "¿Olvidaste la contraseña?",
+                "btnLogin": "Iniciar Sesión",
+                "btnExit": "Salir"
+            }
+        },
+        "en": {
+            "login": {
+                "lblLogin": "Login",
+                "lblFirtsTime": "First time?",
+                "lblRegisterLink": "Sign Up",
+                "lblEmail": "Email*",
+                "txtEmailPlaceholder": "Email",
+                "lblPassword": "Password*",
+                "txtPasswordPlaceholder": "Password",
+                "lblForgotPasswordLink": "Forgot Password?",
+                "btnLogin": "Login",
+                "btnExit": "Exit"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\bin\Debug\net8.0-windows\CRUDJLanda.exe
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\bin\Debug\net8.0-windows\CRUDJLanda.deps.json
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\bin\Debug\net8.0-windows\CRUDJLanda.runtimeconfig.json
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\bin\Debug\net8.0-windows\CRUDJLanda.dll
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\bin\Debug\net8.0-windows\CRUDJLanda.pdb
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.Form1.resources
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.vbproj.GenerateResource.cache
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.AssemblyInfoInputs.cache
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.AssemblyInfo.vb
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.vbproj.CoreCompileInputs.cache
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.sourcelink.json
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.dll
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\refint\CRUDJLanda.dll
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.pdb
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\CRUDJLanda.genruntimeconfig.cache
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\CRUDJLanda\obj\Debug\net8.0-windows\ref\CRUDJLanda.dll
