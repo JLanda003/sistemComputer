@@ -19,12 +19,26 @@
 
         inputValue = Val(txtInputValue.Text)
 
-        If (inputValue >= 200) Then
-            value200 = inputValue Mod 200
-            If (value200 = 0) Then
-                txtOp200.Text = value200
-            End If
-        End If
+        value200 = inputValue \ 200
+        inputValue = inputValue Mod 200
+
+        value100 = inputValue \ 100
+        inputValue = inputValue Mod 100
+
+        value50 = inputValue \ 50
+        inputValue = inputValue Mod 50
+
+        value20 = inputValue \ 20
+        inputValue = inputValue Mod 20
+
+        value10 = inputValue \ 10
+        inputValue = inputValue Mod 10
+
+        txtOp200.Text = value200
+        txtOp100.Text = value100
+        txtOp50.Text = value50
+        txtOp20.Text = value20
+        txtOp10.Text = value10
 
     End Sub
 End Class
