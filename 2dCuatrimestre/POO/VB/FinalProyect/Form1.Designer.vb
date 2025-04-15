@@ -100,31 +100,31 @@ Partial Class Form1
         ' tsmE18
         ' 
         tsmE18.Name = "tsmE18"
-        tsmE18.Size = New Size(133, 22)
+        tsmE18.Size = New Size(180, 22)
         tsmE18.Text = "Ejercicio 18"
         ' 
         ' tsmE19
         ' 
         tsmE19.Name = "tsmE19"
-        tsmE19.Size = New Size(133, 22)
+        tsmE19.Size = New Size(180, 22)
         tsmE19.Text = "Ejercicio 20"
         ' 
         ' tsmP7
         ' 
         tsmP7.Name = "tsmP7"
-        tsmP7.Size = New Size(133, 22)
+        tsmP7.Size = New Size(180, 22)
         tsmP7.Text = "Practica 7"
         ' 
         ' tsmE21
         ' 
         tsmE21.Name = "tsmE21"
-        tsmE21.Size = New Size(133, 22)
+        tsmE21.Size = New Size(180, 22)
         tsmE21.Text = "Ejercicio 21"
         ' 
         ' tsmE22
         ' 
         tsmE22.Name = "tsmE22"
-        tsmE22.Size = New Size(133, 22)
+        tsmE22.Size = New Size(180, 22)
         tsmE22.Text = "Ejercicio 22"
         ' 
         ' Ejercicios11A15ToolStripMenuItem

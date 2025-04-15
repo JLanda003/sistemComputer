@@ -18,4 +18,8 @@
     Private Sub tsmP6_Click(sender As Object, e As EventArgs) Handles tsmP6.Click
         practica6.Show()
     End Sub
+
+    Private Sub tsmE18_Click(sender As Object, e As EventArgs) Handles tsmE18.Click
+        ejercicio18.Show()
+    End Sub
 End Class
