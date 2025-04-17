@@ -25,9 +25,10 @@ D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio19.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio23.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio26.resources
-D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio28.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio30.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio32.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio9.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.practica2.resources
 D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.practica8.resources
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.ejercicio27.resources
+D:\Universidad\sistemComputer\2dCuatrimestre\POO\VB\FinalProyect\obj\Debug\net8.0-windows\FinalProyect.Resources.resources

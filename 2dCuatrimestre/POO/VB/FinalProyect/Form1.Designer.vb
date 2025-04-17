@@ -38,7 +38,7 @@ Partial Class Form1
         Ejercicios11A15ToolStripMenuItem = New ToolStripMenuItem()
         tsmP8 = New ToolStripMenuItem()
         tsmE26 = New ToolStripMenuItem()
-        tsmE28 = New ToolStripMenuItem()
+        tsmE27 = New ToolStripMenuItem()
         tsmE30 = New ToolStripMenuItem()
         tsmE32 = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
@@ -63,31 +63,31 @@ Partial Class Form1
         ' tsmE9
         ' 
         tsmE9.Name = "tsmE9"
-        tsmE9.Size = New Size(180, 22)
+        tsmE9.Size = New Size(133, 22)
         tsmE9.Text = "Ejercicio 9"
         ' 
         ' tsmP2
         ' 
         tsmP2.Name = "tsmP2"
-        tsmP2.Size = New Size(180, 22)
+        tsmP2.Size = New Size(133, 22)
         tsmP2.Text = "Practica 2"
         ' 
         ' tsmE13
         ' 
         tsmE13.Name = "tsmE13"
-        tsmE13.Size = New Size(180, 22)
+        tsmE13.Size = New Size(133, 22)
         tsmE13.Text = "Ejercicio 13"
         ' 
         ' tsme14
         ' 
         tsme14.Name = "tsme14"
-        tsme14.Size = New Size(180, 22)
+        tsme14.Size = New Size(133, 22)
         tsme14.Text = "Ejercicio 14"
         ' 
         ' tsmP4
         ' 
         tsmP4.Name = "tsmP4"
-        tsmP4.Size = New Size(180, 22)
+        tsmP4.Size = New Size(133, 22)
         tsmP4.Text = "Practica 4"
         ' 
         ' Ejercicios6A10ToolStripMenuItem
@@ -100,36 +100,36 @@ Partial Class Form1
         ' tsmP6
         ' 
         tsmP6.Name = "tsmP6"
-        tsmP6.Size = New Size(180, 22)
+        tsmP6.Size = New Size(133, 22)
         tsmP6.Text = "Practica 6"
         ' 
         ' tsmE17
         ' 
         tsmE17.Name = "tsmE17"
-        tsmE17.Size = New Size(180, 22)
+        tsmE17.Size = New Size(133, 22)
         tsmE17.Text = "Ejercicio 17"
         ' 
         ' tsmE18
         ' 
         tsmE18.Name = "tsmE18"
-        tsmE18.Size = New Size(180, 22)
+        tsmE18.Size = New Size(133, 22)
         tsmE18.Text = "Ejercicio 18"
         ' 
         ' tsmE19
         ' 
         tsmE19.Name = "tsmE19"
-        tsmE19.Size = New Size(180, 22)
+        tsmE19.Size = New Size(133, 22)
         tsmE19.Text = "Ejercicio 19"
         ' 
         ' tsmE23
         ' 
         tsmE23.Name = "tsmE23"
-        tsmE23.Size = New Size(180, 22)
+        tsmE23.Size = New Size(133, 22)
         tsmE23.Text = "Ejercicio 23"
         ' 
         ' Ejercicios11A15ToolStripMenuItem
         ' 
-        Ejercicios11A15ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {tsmP8, tsmE26, tsmE28, tsmE30, tsmE32})
+        Ejercicios11A15ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {tsmP8, tsmE26, tsmE27, tsmE30, tsmE32})
         Ejercicios11A15ToolStripMenuItem.Name = "Ejercicios11A15ToolStripMenuItem"
         Ejercicios11A15ToolStripMenuItem.Size = New Size(107, 20)
         Ejercicios11A15ToolStripMenuItem.Text = "Ejercicios 11 a 15"
@@ -146,11 +146,11 @@ Partial Class Form1
         tsmE26.Size = New Size(180, 22)
         tsmE26.Text = "Ejercicio 26"
         ' 
-        ' tsmE28
+        ' tsmE27
         ' 
-        tsmE28.Name = "tsmE28"
-        tsmE28.Size = New Size(180, 22)
-        tsmE28.Text = "Ejercicio 28"
+        tsmE27.Name = "tsmE27"
+        tsmE27.Size = New Size(180, 22)
+        tsmE27.Text = "Ejercicio 27"
         ' 
         ' tsmE30
         ' 
@@ -195,7 +195,7 @@ Partial Class Form1
     Friend WithEvents tsmE23 As ToolStripMenuItem
     Friend WithEvents tsmP8 As ToolStripMenuItem
     Friend WithEvents tsmE26 As ToolStripMenuItem
-    Friend WithEvents tsmE28 As ToolStripMenuItem
+    Friend WithEvents tsmE27 As ToolStripMenuItem
     Friend WithEvents tsmE30 As ToolStripMenuItem
     Friend WithEvents tsmE32 As ToolStripMenuItem
 

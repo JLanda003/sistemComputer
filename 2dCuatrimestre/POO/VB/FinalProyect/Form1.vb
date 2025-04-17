@@ -47,8 +47,8 @@
         ejercicio26.Show()
     End Sub
 
-    Private Sub tsmE28_Click(sender As Object, e As EventArgs) Handles tsmE28.Click
-        ejercicio28.Show()
+    Private Sub tsmE27_Click(sender As Object, e As EventArgs) Handles tsmE27.Click
+        ejercicio27.Show()
     End Sub
 
     Private Sub tsmE30_Click(sender As Object, e As EventArgs) Handles tsmE30.Click
