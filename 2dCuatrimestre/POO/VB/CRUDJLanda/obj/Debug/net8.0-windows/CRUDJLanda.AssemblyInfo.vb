@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CRUDJLanda"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8ee682207f939a7d6282dea27f823958f560d5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa2fae562f27c63a2db12c027245e2d411b34369"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CRUDJLanda"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CRUDJLanda"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

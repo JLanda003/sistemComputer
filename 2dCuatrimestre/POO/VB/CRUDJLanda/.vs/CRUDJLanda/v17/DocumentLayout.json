@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\langmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:langmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\lang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:lang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\storage\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,18 +37,18 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 220,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 208,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Lang.vb",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
               "RelativeDocumentMoniker": "Lang.vb",
               "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
               "RelativeToolTip": "Lang.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T20:55:00.25Z",
               "IsPinned": true,
@@ -56,46 +56,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.vb",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
               "RelativeDocumentMoniker": "Form1.Designer.vb",
               "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
               "RelativeToolTip": "Form1.Designer.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T22:49:28.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.vb",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T20:47:34.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LangModule.vb",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
               "RelativeDocumentMoniker": "LangModule.vb",
               "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
               "RelativeToolTip": "LangModule.vb",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T21:09:06.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
@@ -108,18 +108,18 @@
           ]
         },
         {
-          "DockedHeight": 180,
+          "DockedHeight": 192,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "lang.json",
               "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
               "RelativeDocumentMoniker": "src\\lang\\lang.json",
               "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
               "RelativeToolTip": "src\\lang\\lang.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-19T01:33:01.664Z",
               "EditorCaption": ""
@@ -134,8 +134,7 @@
               "RelativeToolTip": "src\\storage\\users.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T01:32:19.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T01:32:19.128Z"
             }
           ]
         }

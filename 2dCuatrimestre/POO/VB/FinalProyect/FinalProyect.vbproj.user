@@ -7,10 +7,37 @@
     <Compile Update="ejercicio14.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ejercicio17.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ejercicio18.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ejercicio19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio27.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio32.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ejercicio9.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="practica2.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="practica3.vb">
@@ -20,6 +47,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="practica6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="practica8.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
