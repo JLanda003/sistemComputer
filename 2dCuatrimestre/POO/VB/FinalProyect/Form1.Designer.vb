@@ -30,8 +30,8 @@ Partial Class Form1
         tsme14 = New ToolStripMenuItem()
         tsmP4 = New ToolStripMenuItem()
         Ejercicios6A10ToolStripMenuItem = New ToolStripMenuItem()
-        tsmP6 = New ToolStripMenuItem()
         tsmE17 = New ToolStripMenuItem()
+        tsmP6 = New ToolStripMenuItem()
         tsmE18 = New ToolStripMenuItem()
         tsmE19 = New ToolStripMenuItem()
         tsmE23 = New ToolStripMenuItem()
@@ -92,22 +92,22 @@ Partial Class Form1
         ' 
         ' Ejercicios6A10ToolStripMenuItem
         ' 
-        Ejercicios6A10ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {tsmP6, tsmE17, tsmE18, tsmE19, tsmE23})
+        Ejercicios6A10ToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {tsmE17, tsmP6, tsmE18, tsmE19, tsmE23})
         Ejercicios6A10ToolStripMenuItem.Name = "Ejercicios6A10ToolStripMenuItem"
         Ejercicios6A10ToolStripMenuItem.Size = New Size(101, 20)
         Ejercicios6A10ToolStripMenuItem.Text = "Ejercicios 6 a 10"
-        ' 
-        ' tsmP6
-        ' 
-        tsmP6.Name = "tsmP6"
-        tsmP6.Size = New Size(133, 22)
-        tsmP6.Text = "Practica 6"
         ' 
         ' tsmE17
         ' 
         tsmE17.Name = "tsmE17"
         tsmE17.Size = New Size(133, 22)
         tsmE17.Text = "Ejercicio 17"
+        ' 
+        ' tsmP6
+        ' 
+        tsmP6.Name = "tsmP6"
+        tsmP6.Size = New Size(133, 22)
+        tsmP6.Text = "Practica 6"
         ' 
         ' tsmE18
         ' 
@@ -187,8 +187,8 @@ Partial Class Form1
     Friend WithEvents tsme14 As ToolStripMenuItem
     Friend WithEvents tsmP4 As ToolStripMenuItem
     Friend WithEvents Ejercicios6A10ToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents tsmP6 As ToolStripMenuItem
     Friend WithEvents tsmE17 As ToolStripMenuItem
+    Friend WithEvents tsmP6 As ToolStripMenuItem
     Friend WithEvents Ejercicios11A15ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents tsmE18 As ToolStripMenuItem
     Friend WithEvents tsmE19 As ToolStripMenuItem

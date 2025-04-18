@@ -19,12 +19,12 @@
         practica4.Show()
     End Sub
 
-    Private Sub tsmP6_Click(sender As Object, e As EventArgs) Handles tsmP6.Click
-        practica6.Show()
-    End Sub
-
     Private Sub tsmE17_Click(sender As Object, e As EventArgs) Handles tsmE17.Click
         ejercicio17.Show()
+    End Sub
+
+    Private Sub tsmP6_Click(sender As Object, e As EventArgs) Handles tsmP6.Click
+        practica6.Show()
     End Sub
 
     Private Sub tsmE18_Click(sender As Object, e As EventArgs) Handles tsmE18.Click
