@@ -3,7 +3,10 @@
     Dim valor2 As Double
     Dim operacion As String
 
-    Private Sub btnNumero_Click(sender As Object, e As EventArgs) Handles btn0.Click, btn1.Click, btn2.Click, btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click
+    Private Sub btnNumero_Click(sender As Object, e As EventArgs) Handles btn0.Click, btn1.Click, btn2.Click,
+        btn3.Click, btn4.Click, btn5.Click,
+        btn6.Click, btn7.Click, btn8.Click,
+        btn9.Click
         txtResultado.Text &= DirectCast(sender, Button).Text
     End Sub
 

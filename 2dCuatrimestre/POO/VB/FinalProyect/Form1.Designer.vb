@@ -49,7 +49,7 @@ Partial Class Form1
         MenuStrip1.Items.AddRange(New ToolStripItem() {tsmEJ1_5, Ejercicios6A10ToolStripMenuItem, Ejercicios11A15ToolStripMenuItem})
         MenuStrip1.Location = New Point(0, 0)
         MenuStrip1.Name = "MenuStrip1"
-        MenuStrip1.Size = New Size(800, 24)
+        MenuStrip1.Size = New Size(366, 24)
         MenuStrip1.TabIndex = 0
         MenuStrip1.Text = "MenuStrip1"
         ' 
@@ -137,38 +137,38 @@ Partial Class Form1
         ' tsmP8
         ' 
         tsmP8.Name = "tsmP8"
-        tsmP8.Size = New Size(180, 22)
+        tsmP8.Size = New Size(133, 22)
         tsmP8.Text = "Practica 8"
         ' 
         ' tsmE26
         ' 
         tsmE26.Name = "tsmE26"
-        tsmE26.Size = New Size(180, 22)
+        tsmE26.Size = New Size(133, 22)
         tsmE26.Text = "Ejercicio 26"
         ' 
         ' tsmE27
         ' 
         tsmE27.Name = "tsmE27"
-        tsmE27.Size = New Size(180, 22)
+        tsmE27.Size = New Size(133, 22)
         tsmE27.Text = "Ejercicio 27"
         ' 
         ' tsmE30
         ' 
         tsmE30.Name = "tsmE30"
-        tsmE30.Size = New Size(180, 22)
+        tsmE30.Size = New Size(133, 22)
         tsmE30.Text = "Ejercicio 30"
         ' 
         ' tsmE32
         ' 
         tsmE32.Name = "tsmE32"
-        tsmE32.Size = New Size(180, 22)
+        tsmE32.Size = New Size(133, 22)
         tsmE32.Text = "Ejercicio 32"
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(366, 189)
         Controls.Add(MenuStrip1)
         MainMenuStrip = MenuStrip1
         Name = "Form1"
