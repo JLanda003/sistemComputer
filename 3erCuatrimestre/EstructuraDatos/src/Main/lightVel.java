@@ -1,7 +1,7 @@
 package Main;
 import java.util.Scanner;
 
-public class lightVel {
+public class LightVel {
 
 	public static void main(String[] args) {
 		double light = 299792458;
