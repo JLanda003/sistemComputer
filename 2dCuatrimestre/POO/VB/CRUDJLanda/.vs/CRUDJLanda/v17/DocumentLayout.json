@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\",
+  "WorkspaceRootPath": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
@@ -28,7 +29,34 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\universidad\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\storage\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+=======
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\storage\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:src\\storage\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:src\\lang\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\langmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:langmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\lang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:lang.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|d:\\sistemcomputer\\2dcuatrimestre\\poo\\vb\\crudjlanda\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{038D0BDD-AEA9-4DC6-8DF7-5672657AFEA8}|CRUDJLanda.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,18 +65,26 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< Updated upstream
           "DockedHeight": 208,
+=======
+          "DockedHeight": 259,
+>>>>>>> Stashed changes
           "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Lang.vb",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
               "RelativeDocumentMoniker": "Lang.vb",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Lang.vb",
               "RelativeToolTip": "Lang.vb",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAdAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T20:55:00.25Z",
               "IsPinned": true,
@@ -56,11 +92,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
               "Title": "Form1.Designer.vb",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
               "RelativeDocumentMoniker": "Form1.Designer.vb",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.Designer.vb",
               "RelativeToolTip": "Form1.Designer.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -69,26 +109,42 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAEAAAAAAAAAAAAvwAUAAAAgAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T20:47:34.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "LangModule.vb",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
               "RelativeDocumentMoniker": "LangModule.vb",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\LangModule.vb",
               "RelativeToolTip": "LangModule.vb",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T21:09:06.898Z",
               "EditorCaption": ""
@@ -97,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb [Dise\u00F1o]",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\Form1.vb [Dise\u00F1o]",
               "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T20:20:24.692Z",
@@ -108,29 +164,42 @@
           ]
         },
         {
+<<<<<<< Updated upstream
           "DockedHeight": 192,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+=======
+          "DockedHeight": 141,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> Stashed changes
               "Title": "lang.json",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
               "RelativeDocumentMoniker": "src\\lang\\lang.json",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\lang\\lang.json",
               "RelativeToolTip": "src\\lang\\lang.json",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAIAAAASAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-19T01:33:01.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "users.json",
-              "DocumentMoniker": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\storage\\users.json",
+              "DocumentMoniker": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\storage\\users.json",
               "RelativeDocumentMoniker": "src\\storage\\users.json",
-              "ToolTip": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\storage\\users.json",
+              "ToolTip": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\src\\storage\\users.json",
               "RelativeToolTip": "src\\storage\\users.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

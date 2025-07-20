@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "9oW655O3XII=",
+=======
+  "dgSpecHash": "zUXmDcmDa2k=",
+>>>>>>> Stashed changes
   "success": true,
-  "projectFilePath": "D:\\Universidad\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\CRUDJLanda.vbproj",
+  "projectFilePath": "D:\\sistemComputer\\2dCuatrimestre\\POO\\VB\\CRUDJLanda\\CRUDJLanda.vbproj",
   "expectedPackageFiles": [],
   "logs": []
 }
