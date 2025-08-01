@@ -1,12 +1,13 @@
+package Main;
+
+import java.util.Scanner;
 /*
 * Ingresar dos numeros
 * Ingresa una clave + - * /
 * Motrar el resultado
 */
 
-import java.util.Scanner;
-
-public class Main
+public class CalculatorKey
 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

@@ -1,11 +1,12 @@
+package Main;
+
+import java.util.Scanner;
 /*
 * Ingresar numeros del 1 - 7
 * Mostrar día de la semana
 */
 
-import java.util.Scanner;
-
-public class Main
+public class CurrentDay
 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

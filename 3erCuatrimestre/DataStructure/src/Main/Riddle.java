@@ -1,3 +1,6 @@
+package Main;
+
+import java.util.Scanner;
 /*
 * Ingresar numeros del 1 - 9
 * Preguntar si es par o impar
@@ -5,9 +8,7 @@
 * Motrar el numero concluido
 */
 
-import java.util.Scanner;
-
-public class Main
+public class Riddle
 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
