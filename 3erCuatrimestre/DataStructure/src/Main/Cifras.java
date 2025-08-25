@@ -2,7 +2,7 @@ package Main;
 import java.util.Scanner;
 
 /**
- * Ejercicio15
+ * Ejercicio 15
  * Ingrese un numero del 0 al 9999 y determine
  * las cifeas que tiene
  */

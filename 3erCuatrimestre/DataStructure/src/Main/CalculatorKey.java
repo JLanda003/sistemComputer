@@ -2,6 +2,7 @@ package Main;
 
 import java.util.Scanner;
 /*
+* Ejercicio 28
 * Ingresar dos numeros
 * Ingresa una clave + - * /
 * Motrar el resultado
