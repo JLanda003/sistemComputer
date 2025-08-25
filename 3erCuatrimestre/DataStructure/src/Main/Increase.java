@@ -3,6 +3,7 @@ package Main;
 import java.util.Scanner;
 
 /*
+ * Ejercicio 20
  * Increase
  * En una empresa requiere obtener el aumento de empleados segun por su categoria
  * S -> Sindicalizado > 20%

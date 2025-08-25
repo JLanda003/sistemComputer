@@ -2,6 +2,7 @@ package Main;
 
 import java.util.Scanner;
 /*
+* Ejercicio 27
 * Ingresar numeros del 1 - 9
 * Preguntar si es par o impar
 * Preguntar el residuo sobre dividir entre 5
@@ -20,6 +21,7 @@ public class Riddle
 		current = scan.nextInt();
 		if (current < 0 || current > 9){
 		    System.out.println("Ingrese un numero correcto");
+				scan.close();
 		    return;
 		}
 		
@@ -27,6 +29,7 @@ public class Riddle
 		isPar = scan.nextInt();
 		if (isPar < 0 || isPar > 1){
 		    System.out.println("Ingrese un numero correcto");
+				scan.close();
 		    return;
 		}
 		

@@ -2,6 +2,7 @@ package Main;
 
 import java.util.Scanner;
 /*
+Ejercicio 26
 * Ingresar numeros del 1 - 7
 * Mostrar día de la semana
 */

@@ -3,6 +3,7 @@ package Main;
 import java.util.Scanner;
 
 /**
+ * Ejercicio 23
  * Permite ingresar numeros del 1 al 12
  * Mostrara en pantalla
  * Días del mes
