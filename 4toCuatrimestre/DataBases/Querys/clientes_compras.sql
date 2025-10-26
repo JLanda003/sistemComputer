@@ -1,5 +1,5 @@
 -- Eliminamos la base de datos si existe
--- DROP DATABASE IF EXISTS clientes_compras;
+-- DROP DATABASE IF EXISTS clientes_compras; 
 CREATE DATABASE clientes_compras;
 
 SHOW databases;

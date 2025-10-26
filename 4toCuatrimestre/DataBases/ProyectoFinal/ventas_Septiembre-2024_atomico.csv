@@ -1,0 +1,11 @@
+No. de Venta,Fecha de Venta,Nombre del cliente,Apellido del cliente,Correo del cliente,Tipo del producto,Marca del producto,Modelo del producto,Categoria,Precio unitario,Cantidad,Nombre del vendedor,Apellido del vendedor,Sucursal,Ciudad de la sucursal
+1,2024-09-12,Juan,Pérez,juanperez@mail.com,Laptop,HP,15,Computadoras,14500,1,Ana,Torres,Centro,Monterrey
+2,2024-09-12,María,López,marialopez@mail.com,Mouse,Logitech,M170,Periféricos,350,2,Luis,Díaz,Sur,Guadalajara
+3,2024-09-13,Carlos,Ruiz,carlosruiz@mail.com,Teclado,Redragon,K552,Periféricos,780,1,Ana,Torres,Centro,Monterrey
+4,2024-09-13,Juan,Pérez,juanperez@mail.com,Monitor,Samsung,24,Monitores,3200,1,Ana,Torres,Centro,Monterrey
+5,2024-09-14,María,López,marialopez@mail.com,Laptop,Lenovo,IdeaPad 3,Computadoras,13500,1,Luis,Díaz,Sur,Guadalajara
+6,2024-09-15,Lucía,Ortega,luciaortega@mail.com,Auriculares,HyperX,Cloud II,Audio,2200,1,Sofía,Ramos,Norte,Ciudad de México
+7,2024-09-15,Carlos,Ruiz,carlosruiz@mail.com,Mouse,Logitech,M170,Periféricos,350,1,Ana,Torres,Centro,Monterrey
+8,2024-09-16,Pedro,Gómez,pedrogomez@mail.com,Teclado,Redragon,K552,Periféricos,780,2,Sofía,Ramos,Norte,Ciudad de México
+9,2024-09-16,Lucía,Ortega,luciaortega@mail.com,Monitor,Samsung,24,Monitores,3200,1,Sofía,Ramos,Norte,Ciudad de México
+10,2024-09-17,Juan,Pérez,juanperez@mail.com,Auriculares,HyperX,Cloud II,Audio,2200,1,Ana,Torres,Centro,Monterrey
