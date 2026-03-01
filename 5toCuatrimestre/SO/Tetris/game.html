@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeTetris</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="game-container">
+        <h1>PokeTetris</h1>
+        
+        <div class="game-wrapper">
+            <canvas id="gameCanvas"></canvas>
+            
+            <div class="sidebar">
+                <div class="score-box">
+                    <h3>Puntuación</h3>
+                    <span id="score">0</span>
+                </div>
+                
+                <div class="controls-info">
+                    <h3>Controles de teclado</h3>
+                    <ul>
+                        <li>Flecha Izquierda: Moverte a la izquierda</li>
+                        <li>Flecha Derecha: Moverte a la derecha</li>
+                        <li>Flecha Abajo: Moverte hacia abajo</li>
+                        <li>Flecha Arriba / Tecla X: Rotar</li>
+                        <li>Tecla P: Pausar</li>
+                    </ul>
+                </div>
+                
+                <button id="startBtn" class="btn-start">Iniciar Juego</button>
+                <button id="pauseBtn" class="btn-pause">Pausar</button>
+            </div>
+        </div>
+        
+        <div class="game-over" id="gameOverModal" style="display: none;">
+            <div class="modal-content">
+                <h2>Juego terminado!</h2>
+                <p>Puntuación: <span id="finalScore">0</span></p>
+                <button onclick="location.reload()">Jugar de nuevo</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Importar como módulo -->
+    <script type="module">
+        import {Game} from './js/Game.js';
+        
+        let game = null;
+        
+        const canvas = document.getElementById('gameCanvas');
+        const startBtn = document.getElementById('startBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const gameOverModal = document.getElementById('gameOverModal');
+        
+        // Iniciar juego
+        startBtn.addEventListener('click', () => {
+            if (!game) {
+                game = new Game(canvas, 20, 10);
+                startBtn.disabled = true;
+                startBtn.textContent = 'Iniciado...';
+            }
+        });
+        
+        // Pausar/Reanudar
+        pauseBtn.addEventListener('click', () => {
+            if (game && game.board && !game.gameOver) {
+                const isPaused = pauseBtn.textContent === 'Reanudar';
+                if (isPaused) {
+                    game.start();
+                    pauseBtn.textContent = 'Pausar';
+                } else {
+                    game.stop();
+                    pauseBtn.textContent = 'Reanudar';
+                }
+            }
+        });
+    </script>
+</body>
+</html>
