@@ -26,3 +26,8 @@ textFiles/*
 **/DataBases/Tareas/*
 **/EnglishIV/*
 **/OperativeSistem/*
+**/*.png
+**/*.gif
+**/*.workspace
+**/*.zip
+**/Project Backups

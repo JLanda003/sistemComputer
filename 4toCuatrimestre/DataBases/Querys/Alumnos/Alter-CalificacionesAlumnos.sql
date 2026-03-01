@@ -32,7 +32,7 @@ create table Calificaciones(
 	fecha datetime not null,
 	nota integer not null,
 	codMencion integer not null,
-	foreign key (codMencion) references  Menciones(codMencion)
+	foreign key (codMencion) references Menciones(codMencion)
 );
 
 create table AlumnosMateriasCalificaciones(

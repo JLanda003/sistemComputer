@@ -1,4 +1,4 @@
-DROP database TecnologiaMundo_DB;
+DROP database if exists TecnologiaMundo_DB;
 -- CREAMOS LA BASE DE DATOS
 CREATE SCHEMA IF NOT EXISTS `TecnologiaMundo_DB` DEFAULT CHARACTER SET UTF8MB4;
 
